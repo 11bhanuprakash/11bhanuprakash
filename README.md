@@ -11,10 +11,13 @@ understanding concepts visually by building small tools and experiments.
 ## 🔬 Interests
 - Computer Vision & Image Processing  
 - Machine Learning & Deep Learning  
+- Data Analysis & Data-Driven Engineering  
+- Software Development & Prototyping  
+- Testing (Manual & Automation)  
 - Robotics & ROS  
 - Optimization Techniques  
 - Simulation & Digital Engineering  
-- Anything with a bit of math 🧮
+- Trading, Quantitative Analysis & Investments  
 
 ---
 
