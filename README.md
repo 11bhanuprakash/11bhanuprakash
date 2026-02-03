@@ -20,5 +20,4 @@ understanding concepts visually by building small tools and experiments.
 
 ## 📫 Contact
 - 📧 bhanuprakashkonatham@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/bhanu-prakash-konatham-219224208/
--  [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-konatham-219224208/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhanu-prakash-konatham-219224208/)
