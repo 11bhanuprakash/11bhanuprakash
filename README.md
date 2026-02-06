@@ -8,6 +8,7 @@ understanding concepts visually by building small tools and experiments.
 
 ---
 
+
 ## 🔬 Interests
 - Computer Vision & Image Processing  
 - Machine Learning & Deep Learning  
@@ -18,6 +19,7 @@ understanding concepts visually by building small tools and experiments.
 - Optimization Techniques  
 - Simulation & Digital Engineering  
 - Trading, Quantitative Analysis & Investments  
+
 
 ---
 
