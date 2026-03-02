@@ -10,7 +10,7 @@ understanding concepts visually by building small tools and experiments.
 
 
 ## 🔬 Interests
-- Computer Vision & Image Processing  
+- Computer Vision & Image Processing
 - Machine Learning & Deep Learning  
 - Data Analysis & Data-Driven Engineering  
 - Software Development & Prototyping  
@@ -18,7 +18,8 @@ understanding concepts visually by building small tools and experiments.
 - Robotics & ROS  
 - Optimization Techniques  
 - Simulation & Digital Engineering  
-- Trading, Quantitative Analysis & Investments  
+- Trading, Quantitative Analysis & Investments
+- Full Stack Development
 
 
 ---
